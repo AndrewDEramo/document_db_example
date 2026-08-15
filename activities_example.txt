@@ -1,0 +1,4 @@
+activity_id,name,category,intensities,environment_type,environment_subs
+yoga_001,Yoga,Physical|Mental,Low|Medium,Indoor,Gymnasium
+tball_001,T-Ball,Physical|Team,Medium|High,Outdoor,
+solitare_001,Solitare,Mental,Low,Indoor,Mall|Home

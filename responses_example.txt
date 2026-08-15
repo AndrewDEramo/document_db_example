@@ -1,0 +1,13 @@
+user_id,name,frequency
+user123,Yoga,2
+user234,Yoga,8
+user345,Yoga,22
+user111,T-Ball,5
+user222,T-Ball,12
+user333,T-Ball,7
+user456,Yoga,4
+user567,Solitare,2
+user678,T-Ball,9
+user789,T-Ball,9
+user890,T-Ball,8
+user123,Solitare,1
